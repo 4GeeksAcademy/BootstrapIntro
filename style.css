@@ -1,0 +1,56 @@
+body{
+    margin-bottom:20px;
+}
+.dropdown{
+    margin-right:30px;
+}
+.dropdown-items{
+    margin-right:100px;
+}
+
+#gridSection{
+     width:600px;
+     margin:auto;
+     gap:10px;
+}
+
+.icon-blue{
+    color:blue;
+}
+
+img {
+width:100%;
+}
+
+#gridSection .card {
+  border:none;
+}
+
+
+.active-btn {
+    color:blue;
+}
+textarea{
+    width:100%;
+    margin-top:10px;
+}
+
+.cameraLocation button{
+    border: 1px solid rgb(147, 142, 142);
+    border-radius:2px;
+    margin-top:7px;
+}
+
+.card-group{
+    gap:10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: center;
+}
+
+.card-img-top, 
+.card-img-grid{
+    width: 100%;
+    height:auto;
+    object-fit: cover;
+}
